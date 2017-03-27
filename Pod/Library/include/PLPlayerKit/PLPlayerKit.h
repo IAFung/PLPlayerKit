@@ -11,6 +11,5 @@
 
 #import "PLPlayer.h"
 #import "PLPlayerOption.h"
-#import "PLPlayerError.h"
 
 #endif
